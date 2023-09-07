@@ -1,0 +1,8 @@
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.csproj.AssemblyReference.cache
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.AssemblyInfoInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.AssemblyInfo.cs
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.csproj.CoreCompileInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.RazorAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\CustomHelper\CustomHelper\obj\Debug\net6.0\CustomHelper.RazorAssemblyInfo.cs
